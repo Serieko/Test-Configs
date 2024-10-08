@@ -1,6 +1,6 @@
 {
     "fists": {
         "hitDelay": 0.2,
-        "damage": 75
+        "damage": 1
     }
 }
