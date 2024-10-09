@@ -2,11 +2,17 @@
     "fists": {
         "attackData": [
             {
-                "hitbox": [1, 1, 1],
-                "damage": 10
+                "hitbox": [4, 4, 4],
+                "damage": 10,
+                "hitDelay": 0.1,
+                "hitHold": 0.2
+            },
+            {
+                "hitbox": [4, 4, 4],
+                "damage": 10,
+                "hitDelay": 0.1,
+                "hitHold": 0.2
             }
-        ],
-        "hitDelay": 0.2,
-        "damage": 50
+        ]
     }
 }
