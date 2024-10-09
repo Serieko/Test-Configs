@@ -1,0 +1,12 @@
+{
+    "fists": {
+        "attackData": [
+            {
+                "hitbox": [1, 1, 1],
+                "damage": 10
+            }
+        ],
+        "hitDelay": 0.2,
+        "damage": 50
+    }
+}
