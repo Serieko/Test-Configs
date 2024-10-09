@@ -1,5 +1,5 @@
 return {
     fists = {
-        damage = 15,
+        damage = 20,
     }
 }
