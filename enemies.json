@@ -1,6 +1,6 @@
 {
     "test": {
-        "range": 50,
+        "range": 40,
         "stopDistance": 2,
         "attackRange": 3,
         "attackHitbox": [2, 2, 4],
