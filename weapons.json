@@ -3,7 +3,7 @@
         "attackData": [
             {
                 "hitbox": [4, 4, 4],
-                "damage": 10,
+                "damage": 100,
                 "hitDelay": 0.1,
                 "hitHold": 0.2
             },
