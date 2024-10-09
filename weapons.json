@@ -1,6 +1,6 @@
 {
     "fists": {
-        "attackData": [
+        "comboData": [
             {
                 "hitbox": [4, 4, 4],
                 "damage": 25,
