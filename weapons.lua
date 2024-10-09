@@ -1,5 +1,5 @@
-config = {
+return {
     fists = {
-        damage = 10,
+        damage = 15,
     }
 }
