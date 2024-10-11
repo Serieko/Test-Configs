@@ -17,6 +17,9 @@
         "attackDelay": 0.2,
         "attackHold": 0.2,
         "attackDamage": 1,
-        "attackCooldown": 1
+        "attackCooldown": 1,
+        "skills": [
+            "frontSlam"
+        ]
     }
 }
