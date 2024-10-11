@@ -1,12 +1,22 @@
 {
     "test": {
-        "range": 40,
+        "range": 50,
         "stopDistance": 2,
         "attackRange": 3,
         "attackHitbox": [2, 2, 4],
         "attackDelay": 0.2,
         "attackHold": 0.2,
         "attackDamage": 0.1,
+        "attackCooldown": 1
+    },
+    "testboss": {
+        "range": 80,
+        "stopDistance": 2.5,
+        "attackRange": 4,
+        "attackHitbox": [4, 4, 6],
+        "attackDelay": 0.2,
+        "attackHold": 0.2,
+        "attackDamage": 1,
         "attackCooldown": 1
     }
 }
