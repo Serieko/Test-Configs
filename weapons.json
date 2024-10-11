@@ -3,13 +3,13 @@
         "comboData": [
             {
                 "hitbox": [4, 4, 4],
-                "damage": 15,
+                "damage": 25,
                 "hitDelay": 0.1,
                 "hitHold": 0.2
             },
             {
                 "hitbox": [4, 4, 4],
-                "damage": 15,
+                "damage": 25,
                 "hitDelay": 0.1,
                 "hitHold": 0.2
             }
