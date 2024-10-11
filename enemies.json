@@ -13,7 +13,7 @@
     },
     "testboss": {
         "walkSpeed": 10,
-        "health": 300,
+        "health": 1500,
         "range": 80,
         "stopDistance": 4,
         "attackRange": 7,
@@ -31,6 +31,7 @@
                 "duration": 1.5
             },
             "spawnEnemies": {
+                "cooldown": 15,
                 "spawnCount": 4,
                 "enemyId": "Test"
             }
