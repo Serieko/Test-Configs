@@ -8,19 +8,19 @@
         "attackHitbox": [2, 2, 4],
         "attackDelay": 0.2,
         "attackHold": 0.2,
-        "attackDamage": 0.1,
+        "attackDamage": .5,
         "attackCooldown": 1
     },
     "testboss": {
-        "walkSpeed": 8,
-        "health": 250,
+        "walkSpeed": 10,
+        "health": 300,
         "range": 80,
         "stopDistance": 4,
         "attackRange": 7,
         "attackHitbox": [4, 4, 6],
         "attackDelay": 0.2,
         "attackHold": 0.2,
-        "attackDamage": 1,
+        "attackDamage": 5,
         "attackCooldown": 1,
         "skills": {
             "frontSlam": {
@@ -31,7 +31,7 @@
                 "duration": 1.5
             },
             "spawnEnemies": {
-                "spawnCount": 5,
+                "spawnCount": 4,
                 "enemyId": "Test"
             }
         }
