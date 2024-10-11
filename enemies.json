@@ -24,7 +24,7 @@
         "attackCooldown": 1,
         "skills": {
             "frontSlam": {
-                "range": 10,
+                "range": 20,
                 "cooldown": 4,
                 "hitbox": [10, 8, 16],
                 "damage": 10,
