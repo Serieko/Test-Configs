@@ -12,7 +12,7 @@
     "testboss": {
         "range": 80,
         "stopDistance": 4,
-        "attackRange": 5,
+        "attackRange": 7,
         "attackHitbox": [4, 4, 6],
         "attackDelay": 0.2,
         "attackHold": 0.2,
