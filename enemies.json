@@ -1,5 +1,7 @@
 {
     "test": {
+        "walkSpeed": 15,
+        "health": 100,
         "range": 50,
         "stopDistance": 2,
         "attackRange": 3,
@@ -10,6 +12,8 @@
         "attackCooldown": 1
     },
     "testboss": {
+        "walkSpeed": 8,
+        "health": 250,
         "range": 80,
         "stopDistance": 4,
         "attackRange": 7,
