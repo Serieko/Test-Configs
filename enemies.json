@@ -21,7 +21,7 @@
         "skills": {
             "frontSlam": {
                 "cooldown": 2.5,
-                "hitbox": [4, 8, 8],
+                "hitbox": [4, 8, 12],
                 "damage": 10,
                 "duration": 1.5
             }
