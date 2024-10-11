@@ -29,6 +29,10 @@
                 "hitbox": [10, 8, 16],
                 "damage": 10,
                 "duration": 1.5
+            },
+            "spawnEnemies": {
+                "spawnCount": 5,
+                "enemyId": "Test"
             }
         }
     }
