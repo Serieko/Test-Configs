@@ -18,8 +18,13 @@
         "attackHold": 0.2,
         "attackDamage": 1,
         "attackCooldown": 1,
-        "skills": [
-            "frontSlam"
-        ]
+        "skills": {
+            "frontSlam": {
+                "cooldown": 2.5,
+                "hitbox": [4, 8, 8],
+                "damage": 10,
+                "duration": 1.5
+            }
+        }
     }
 }
