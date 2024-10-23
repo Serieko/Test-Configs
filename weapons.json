@@ -21,6 +21,6 @@
         "projectileHitbox": 2.5,
         "projectileMaxDistance": 50,
         "projectileAoeHitbox": 5,
-        "projectileAoeDamage": 20
+        "projectileAoeDamage": 10
     }
 }
