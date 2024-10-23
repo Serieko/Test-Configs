@@ -5,16 +5,22 @@
                 "hitbox": [4, 4, 4],
                 "damage": 20,
                 "hitDelay": 0.1,
-                "hitHold": 0.2,
-                "staminaCost": 5
+                "hitHold": 0.2
             },
             {
                 "hitbox": [4, 4, 4],
                 "damage": 20,
                 "hitDelay": 0.1,
-                "hitHold": 0.2,
-                "staminaCost": 5
+                "hitHold": 0.2
             }
         ]
+    },
+    "staff": {
+        "projectileSpeed": 40,
+        "projectileDamage": 20,
+        "projectileHitbox": 2.5,
+        "projectileMaxDistance": 50,
+        "projectileAoeHitbox": 5,
+        "projectileAoeDamage": 20
     }
 }
