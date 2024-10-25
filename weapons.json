@@ -5,13 +5,15 @@
                 "hitbox": [4, 4, 4],
                 "damage": 20,
                 "hitDelay": 0.1,
-                "hitHold": 0.2
+                "hitHold": 0.2,
+                "staminaCost": 10
             },
             {
                 "hitbox": [4, 4, 4],
                 "damage": 20,
                 "hitDelay": 0.1,
-                "hitHold": 0.2
+                "hitHold": 0.2,
+                "staminaCost": 10
             }
         ]
     },
