@@ -1,7 +1,7 @@
 {
     "test": {
         "walkSpeed": 15,
-        "health": 100,
+        "health": 150,
         "range": 50,
         "stopDistance": 2,
         "attackRange": 3,
