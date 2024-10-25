@@ -8,7 +8,7 @@
         "attackHitbox": [2, 2, 4],
         "attackDelay": 0.2,
         "attackHold": 0.2,
-        "attackDamage": 0.5,
+        "attackDamage": 3,
         "attackCooldown": 1
     },
     "testboss": {
@@ -20,14 +20,14 @@
         "attackHitbox": [4, 4, 6],
         "attackDelay": 0.2,
         "attackHold": 0.2,
-        "attackDamage": 5,
+        "attackDamage": 8,
         "attackCooldown": 1,
         "skills": {
             "frontSlam": {
                 "range": 20,
                 "cooldown": 4,
                 "hitbox": [10, 8, 16],
-                "damage": 10,
+                "damage": 20,
                 "duration": 1.5
             },
             "spawnEnemies": {
